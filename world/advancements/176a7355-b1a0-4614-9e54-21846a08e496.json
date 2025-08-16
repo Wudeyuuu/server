@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-08-06 18:25:19 +0000",
       "minecraft:taiga": "2025-06-12 20:15:16 +0000",
       "minecraft:deep_ocean": "2025-06-16 19:42:09 +0000",
       "minecraft:sunflower_plains": "2025-06-14 21:29:31 +0000",
@@ -18,6 +19,7 @@
       "minecraft:mangrove_swamp": "2025-06-18 16:53:30 +0000",
       "minecraft:river": "2025-06-12 18:37:35 +0000",
       "minecraft:lukewarm_ocean": "2025-06-15 22:34:14 +0000",
+      "minecraft:stony_shore": "2025-08-06 15:05:55 +0000",
       "minecraft:dripstone_caves": "2025-06-12 20:25:58 +0000",
       "minecraft:cold_ocean": "2025-06-15 00:06:44 +0000",
       "minecraft:forest": "2025-06-12 14:50:52 +0000",
@@ -544,6 +546,7 @@
       "baked_potato": "2025-06-13 13:30:44 +0000",
       "apple": "2025-06-15 16:26:27 +0000",
       "bread": "2025-06-15 15:05:08 +0000",
+      "melon_slice": "2025-08-07 15:12:51 +0000",
       "cooked_chicken": "2025-06-12 18:18:01 +0000"
     },
     "done": false
@@ -745,6 +748,7 @@
       "minecraft:slime": "2025-06-13 14:15:30 +0000",
       "minecraft:evoker": "2025-06-15 16:25:35 +0000",
       "minecraft:witch": "2025-06-15 16:23:59 +0000",
+      "minecraft:husk": "2025-08-06 18:16:25 +0000",
       "minecraft:cave_spider": "2025-06-12 19:21:01 +0000",
       "minecraft:piglin": "2025-06-17 22:05:49 +0000",
       "minecraft:enderman": "2025-06-12 20:37:05 +0000",
@@ -2969,6 +2973,168 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-18 17:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-08-04 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-08-06 15:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-08-06 15:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-06 15:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-06 15:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-06 17:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-06 17:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-06 17:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-06 18:28:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-08-08 15:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-08-08 15:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-08-08 15:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-08 16:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-09 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-09 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-09 15:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-09 15:27:47 +0000"
     },
     "done": true
   },

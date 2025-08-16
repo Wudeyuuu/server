@@ -1,26 +1,26 @@
-[13:55:01] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
-[13:55:01] [INIT] Loaded plugins:
-[13:55:01] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
-[13:55:01] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[13:55:01] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[13:55:01] [INFO] Loaded script server_scripts:example.js in 0.003 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.002 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.009 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.138 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.012 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.014 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.021 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.005 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.003 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.005 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.007 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.008 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.012 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.002 s
-[13:55:01] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
-[13:55:01] [INFO] Loaded 16/16 KubeJS server scripts in 0.35 s with 0 errors and 0 warnings
-[13:55:01] [INFO] Scripts loaded
-[13:55:04] [INFO] [minecraft:block] Found 213 tags, added 9 objects, removed 0 objects
-[13:55:04] [INFO] [minecraft:item] Found 197 tags, added 3 objects, removed 0 objects
-[13:55:33] [INFO] Server resource reload complete!
+[15:10:49] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[15:10:49] [INIT] Loaded plugins:
+[15:10:49] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[15:10:49] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[15:10:49] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[15:10:49] [INFO] Loaded script server_scripts:example.js in 0.008 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.004 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.013 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.149 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.009 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.011 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.023 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.002 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.001 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.014 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.001 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.015 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.006 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[15:10:49] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
+[15:10:49] [INFO] Loaded 16/16 KubeJS server scripts in 0.381 s with 0 errors and 0 warnings
+[15:10:49] [INFO] Scripts loaded
+[15:10:53] [INFO] [minecraft:block] Found 213 tags, added 9 objects, removed 0 objects
+[15:10:53] [INFO] [minecraft:item] Found 197 tags, added 3 objects, removed 0 objects
+[15:11:17] [INFO] Server resource reload complete!
